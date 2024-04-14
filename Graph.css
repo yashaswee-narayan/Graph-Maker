@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+.chart-container {
+    margin-top: 20px;
+}
+
+.select{
+    margin-right: 90px;
+}
+
+.button{
+    background-color: rgb(65, 201, 65);
+    border-radius: 5px;
+    border-width: 1px;
+}
